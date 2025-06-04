@@ -24,3 +24,15 @@ console.log(countPositivesSumNegatives([-1, -2, -3]));
 console.log(countPositivesSumNegatives([0, 0, 0]));             
 console.log(countPositivesSumNegatives([]));                    
 console.log(countPositivesSumNegatives(null));               
+
+
+let array = [3,5,8,9,11]
+for (let arr = 0; arr < array.length; arr++) {
+  const element = array[arr];
+
+  console.log(array[arr]);
+  
+  
+  
+  
+}

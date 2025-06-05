@@ -12,8 +12,11 @@ function makeNegative(num) {
   }
   
 }
-makeNegative();
+
 console.log(makeNegative(6));
+console.log(makeNegative(-10))
+console.log(makeNegative(10))
+console.log(makeNegative(15))
 
 
 
@@ -22,14 +25,4 @@ console.log(makeNegative(6));
 
 
 
-let name = "HIRWA"
 
-function hirwa () {
-  var name ;
-  
-}
-name = 'today'
-for (let index = 0; index < array.length; index++) {
-  const element = array[index];
-  
-}

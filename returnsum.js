@@ -10,6 +10,10 @@ for (let index = 0; index < arr.length; index++) {
 }
 return result;
 }
+console.log(positiveSum([1,4,-7,6]));
+console.log(positiveSum([-2,-5,-7,1]));
+
+
 
 
   

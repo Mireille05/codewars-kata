@@ -1,6 +1,6 @@
 function calculate(str) {
   let expr = str.replace(/plus/g, '+').replace(/minus/g, '-');
-  
+
   let result = eval(expr);
 
   return result.toString();

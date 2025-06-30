@@ -12,3 +12,6 @@ function findAverage(array) {
 console.log(findAverage([1,4,6,8,9]));
 console.log(findAverage([7,41,6,8,9]));
 console.log(findAverage([16,49,6,8,96]));
+console.log(findAverage([16,49,6.8,8,96,90,100]));
+
+

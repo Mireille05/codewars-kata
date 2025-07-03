@@ -6,5 +6,5 @@ function strToInteger(strng){
     
 return  strngnum;
 }
-console.log(strToInteger('7'));
+
 

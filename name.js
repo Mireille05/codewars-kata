@@ -8,3 +8,5 @@ function welcome (name, city, state) {
 
 }
 console.log(welcome.join('Arthur', 'Kigali', 'kicukiro'));
+
+console.log(welcome.join('Art', 'Kigali', 'kicukiro'));

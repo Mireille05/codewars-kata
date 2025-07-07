@@ -1,10 +1,11 @@
 function strToInteger(strng){
     let strngnum = parseInt(strng);
-    console.log(typeof strngnum);
-    console.log(typeof strng);
-    
-    
-return  strngnum;
+    return strngnum;
 }
+
+
+let result = strToInteger("123");
+console.log( typeof result); 
+
 
 

@@ -18,4 +18,4 @@ function noSpace(x) {
   const y = x.split(" ").join("");
   return y;
 }
-console.log("K U B W A Y O");
+console.log(noSpace("K U B W A Y O"));

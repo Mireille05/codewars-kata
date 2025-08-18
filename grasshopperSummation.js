@@ -22,15 +22,22 @@
 //   console.log(`${color} is at index ${index}`);
 // }
 
-let scores = [10, 20, 30];
-scores.message = "Hi";
+// let scores = [10, 20, 30];
+// scores.message = "Hi";
 
-console.log("for...in:");
-for (let score in scores) {
-  console.log(score);
+// console.log("for...in:");
+// for (let score in scores) {
+//   console.log(score);
+// }
+
+// console.log("for...of:");
+// for (let score of scores) {
+//   console.log(score);
+// }
+
+function findSmallestInt(args) {
+  return Math.min(...args);
 }
 
-console.log("for...of:");
-for (let score of scores) {
-  console.log(score);
-}
+console.log(findSmallestInt([34, 15, 88, 2]));
+console.log(findSmallestInt([34, -345, -1, 100]));

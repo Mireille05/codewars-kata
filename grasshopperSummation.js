@@ -1,13 +1,13 @@
-// function summation(num) {
-//   let sum = 0;
-//   for (let i = 1; i <= num; i++) {
-//     sum += i;
-//   }
-//   return sum;
-// }
-// console.log(summation(3));
-// console.log(summation(10));
-// console.log(summation(4));
+function summation(num) {
+  let sum = 0;
+  for (let i = 1; i <= num; i++) {
+    sum += i;
+  }
+  return sum;
+}
+console.log(summation(3));
+console.log(summation(10));
+console.log(summation(4));
 
 // let scores = [80, 90, 70];
 
@@ -22,18 +22,18 @@
 //   console.log(`${color} is at index ${index}`);
 // }
 
-let scores = [10, 20, 30];
-scores.message = "Hi";
+// let scores = [10, 20, 30];
+// scores.message = "Hi";
 
-console.log("for...in:");
-for (let score in scores) {
-  console.log(score);
-}
+// console.log("for...in:");
+// for (let score in scores) {
+//   console.log(score);
+// }
 
-console.log("for...of:");
-for (let score of scores) {
-  console.log(score);
-}
+// console.log("for...of:");
+// for (let score of scores) {
+//   console.log(score);
+// }
 
 // function findSmallestInt(args) {
 //   return Math.min(...args);

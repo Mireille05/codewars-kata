@@ -41,3 +41,5 @@ console.log(summation(4));
 
 // console.log(findSmallestInt([34, 15, 88, 2]));
 // console.log(findSmallestInt([34, -345, -1, 100]));
+
+// git commit --amend --no-edit --date "2025-08-19 10:14:10"   to commit in past

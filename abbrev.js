@@ -4,5 +4,5 @@ function abbrevName(name) {
 }
 
 console.log(abbrevName("Sam Harris"));
-console.log(abbrevName("patrick Kaney"));
+console.log(abbrevName("patrick Kaneza"));
 console.log(abbrevName("Kubwayo elyse mireille"));

@@ -6,3 +6,5 @@ function abbrevName(name) {
 console.log(abbrevName("Sam Harris"));
 console.log(abbrevName("patrick Kaneza"));
 console.log(abbrevName("Kubwayo elyse mireille"));
+console.log(abbrevName("Kubem neza"));
+console.log(abbrevName("Keza lyiii"));

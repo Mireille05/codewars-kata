@@ -11,3 +11,5 @@ console.log(abbrevName("Keza lyiii"));
 console.log(abbrevName("Kelly lyiii"));
 console.log(abbrevName("Kaliza lyiii"));
 console.log(abbrevName("Kami lyiii"));
+
+// create simple calculator using console application
